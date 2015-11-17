@@ -1,4 +1,10 @@
 Que1.What happens when you initialize a repository?
  Why do you need to do it?
  Ans:its saves current state of the files so that
-  I can refer to it later. 
+  I can refer to it later.
+Que2.How is the staging area different from the 
+working directory and the repository? 
+What value do you think it offers?   
+Ans:I can have multiple files changed at the same time 
+then I can commit them saperately by adding them to staging area
+one by one.
