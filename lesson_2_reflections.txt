@@ -1,0 +1,4 @@
+Que1.What happens when you initialize a repository?
+ Why do you need to do it?
+ Ans:its saves current state of the files so that
+  I can refer to it later. 

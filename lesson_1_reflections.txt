@@ -1,0 +1,21 @@
+Que1.How did viewing a diff between two version
+ of a file help you see the bug that was introduced?
+ Ans1. it shows blocks of code with differences
+  with one difference at a time which is easy to see.
+
+Que2. How could having easy acess to the entire history
+of a file  make you efficient programmer in long term?
+Ans2. i can look into my mistakes and make my code more efficient. 
+
+Que3. Why do you think some version control systems, like Git,
+ allow saving multiple files in one commit, while others,
+  like Google Docs, treat each file separately?
+  Ans3. in Git one file can affect other files while in google docs 
+  chnges to one file do not affect others. 
+
+  Que4.How can you use the commands git log 
+	and git diff to view the history of files?
+	Ans4. First git log to see all the commits that were made 
+	then use git diff to comapare files using their ids from 
+	git log.
+	
